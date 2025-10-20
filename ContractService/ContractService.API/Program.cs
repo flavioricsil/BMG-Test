@@ -34,10 +34,13 @@ builder.Services.AddMassTransit(x =>
 
     x.UsingRabbitMq((context, cfg) =>
     {
-        cfg.Host("bmg-rabbitmq-1", "/", h =>
-        {
-            h.Username("guest");
-            h.Password("guest");
+        var rabbitHost = builder.Configuration["MassTransit:Host"] ?? "rabbitmq";
+        var rabbitUser = builder.Configuration["MassTransit:Username"] ?? "guest";
+        var rabbitPass = builder.Configuration["MassTransit:Password"] ?? "guest";
+
+        cfg.Host(rabbitHost, "/", h => {
+            h.Username(rabbitUser);
+            h.Password(rabbitPass);
         });
 
         cfg.ReceiveEndpoint("proposal-approved-queue", e =>

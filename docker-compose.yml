@@ -5,15 +5,18 @@ services:
       dockerfile: ./ContractService/Dockerfile 
     ports:
       - "5002:8080"
+    # A dependência agora exige que o RabbitMQ esteja saudável
     depends_on:
-      - db
-      - rabbitmq
+      db:
+        condition: service_started
+      rabbitmq:
+        condition: service_healthy # <--- NOVO: Garante que o serviço está pronto
     environment:
       - MassTransit__Host=rabbitmq
       - MassTransit__Username=guest
       - MassTransit__Password=guest
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=taskmanager;Username=postgres;Password=postgres
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=proposalcontract_db;Username=postgres;Password=postgres
     networks:
       - microservices-net
 
@@ -23,15 +26,18 @@ services:
       dockerfile: ./ProposalService/Dockerfile
     ports:
       - "5001:8080"
+    # A dependência agora exige que o RabbitMQ esteja saudável
     depends_on:
-      - db
-      - rabbitmq
+      db:
+        condition: service_started
+      rabbitmq:
+        condition: service_healthy # <--- NOVO: Garante que o serviço está pronto
     environment:
       - MassTransit__Host=rabbitmq
       - MassTransit__Username=guest
       - MassTransit__Password=guest
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=proposal;Username=postgres;Password=postgres
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=proposalcontract_db;Username=postgres;Password=postgres
     networks:
       - microservices-net
 
@@ -59,6 +65,13 @@ services:
       RABBITMQ_DEFAULT_PASS: guest
     networks:
       - microservices-net
+    # 🌟 NOVO: HEALTHCHECK para testar a conectividade AMQP (porta 5672)
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "check_port_connectivity"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
 
 volumes:
   pgdata:
