@@ -82,7 +82,6 @@ Passos:
 
 ```bash
 git clone https://github.com/flavioricsil/BMG-Test.git
-cd api-seguros
 ```
 
 2. Executar com Docker Compose:
