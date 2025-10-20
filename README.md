@@ -50,11 +50,11 @@ Um sistema baseado em microsserviços para gerenciar propostas e contratos de se
 **ProposalService**:
 - Criar proposta de seguro
 - Listar propostas
-- Atualizar status da proposta (Em Análise, Aprovada, Rejeitada)
+- Atualizar status da proposta (Pending, UnderReview, Approved, Rejected)
 - Expor API REST
 
 **ContractService**:
-- Contratar uma proposta (somente se Aprovada)
+- Contratar uma proposta (somente se Approved)
 - Armazenar informações da contratação (ID da proposta, data de contratação)
 - Comunicar-se com o ProposalService para verificar status da proposta
 - Expor API REST
