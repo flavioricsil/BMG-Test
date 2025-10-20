@@ -93,8 +93,8 @@ docker-compose up --build -d
 ```
 
 3. Acessar:
-- ProposalService: http://localhost:5001/swagger
-- ContractService: http://localhost:5002/swagger
+- ProposalService: http://localhost:5001/index.html
+- ContractService: http://localhost:5002/index.html
 
 ---
 
