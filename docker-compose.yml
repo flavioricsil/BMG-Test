@@ -1,0 +1,68 @@
+services:
+  contract-api:
+    build:
+      context: . 
+      dockerfile: ./ContractService/Dockerfile 
+    ports:
+      - "5002:8080"
+    depends_on:
+      - db
+      - rabbitmq
+    environment:
+      - MassTransit__Host=rabbitmq
+      - MassTransit__Username=guest
+      - MassTransit__Password=guest
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=taskmanager;Username=postgres;Password=postgres
+    networks:
+      - microservices-net
+
+  proposal-api:
+    build:
+      context: . 
+      dockerfile: ./ProposalService/Dockerfile
+    ports:
+      - "5001:8080"
+    depends_on:
+      - db
+      - rabbitmq
+    environment:
+      - MassTransit__Host=rabbitmq
+      - MassTransit__Username=guest
+      - MassTransit__Password=guest
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=proposal;Username=postgres;Password=postgres
+    networks:
+      - microservices-net
+
+  db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_DB: proposal
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - microservices-net
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    networks:
+      - microservices-net
+
+volumes:
+  pgdata:
+
+networks:
+  microservices-net:
+    driver: bridge

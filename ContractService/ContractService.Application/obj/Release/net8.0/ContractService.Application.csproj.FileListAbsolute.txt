@@ -1,0 +1,15 @@
+C:\Projetos\BMG\ContractService\ContractService.Application\bin\Release\net8.0\ContractService.Application.deps.json
+C:\Projetos\BMG\ContractService\ContractService.Application\bin\Release\net8.0\ContractService.Application.dll
+C:\Projetos\BMG\ContractService\ContractService.Application\bin\Release\net8.0\ContractService.Application.pdb
+C:\Projetos\BMG\ContractService\ContractService.Application\bin\Release\net8.0\ContractService.Domain.dll
+C:\Projetos\BMG\ContractService\ContractService.Application\bin\Release\net8.0\ContractService.Domain.pdb
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.csproj.AssemblyReference.cache
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.AssemblyInfoInputs.cache
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.AssemblyInfo.cs
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\Contract.7C2CA4F9.Up2Date
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.dll
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\refint\ContractService.Application.dll
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ContractService.Application.pdb
+C:\Projetos\BMG\ContractService\ContractService.Application\obj\Release\net8.0\ref\ContractService.Application.dll

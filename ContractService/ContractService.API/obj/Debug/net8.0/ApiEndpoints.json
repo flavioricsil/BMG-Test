@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ContractService.API.Controllers.ContractController",
+    "Method": "CreateContract",
+    "RelativePath": "api/contracts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContractService.Application.DTOs.CreateContractRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContractService.API.Controllers.ContractController",
+    "Method": "GetAll",
+    "RelativePath": "api/contracts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContractService.API.Controllers.ContractController",
+    "Method": "GetById",
+    "RelativePath": "api/contracts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

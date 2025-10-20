@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\BMG\\ContractService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\TaskManager\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\TaskManager\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ContractService.API\\ContractService.API.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ContractService.API\\ContractService.API.csproj|solutionrelative:Contractservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ContractService.API\\ContractService.API.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ContractService.API\\ContractService.API.csproj|solutionrelative:Contractservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96DC00-45A4-4F8A-9F65-8BE27B82696F}|ContractService.Infrastructure\\ContractService.Infrastructure.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.infrastructure\\data\\Contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96DC00-45A4-4F8A-9F65-8BE27B82696F}|ContractService.Infrastructure\\ContractService.Infrastructure.csproj|solutionrelative:Contractservice.infrastructure\\data\\Contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\TaskManager\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72DF5BF-2F7C-4B24-9025-A13EF2CFEBA2}|ContractService.Tests\\ContractService.Tests.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.tests\\Contractservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72DF5BF-2F7C-4B24-9025-A13EF2CFEBA2}|ContractService.Tests\\ContractService.Tests.csproj|solutionrelative:Contractservice.tests\\Contractservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\dtos\\Contractdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\dtos\\Contractdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\dtos\\createContractrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\dtos\\createContractrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\interfaces\\iContractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\interfaces\\iContractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\services\\Contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\services\\Contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|c:\\projetos\\bmg\\Contractservice\\Contractservice.application\\validators\\createContractrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ContractService.Application\\ContractService.Application.csproj|solutionrelative:Contractservice.application\\validators\\createContractrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ContractService.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.API\\appsettings.json",
+              "RelativeToolTip": "ContractService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T13:12:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Infrastructure\\Data\\ContractDbContext.cs",
+              "RelativeDocumentMoniker": "ContractService.Infrastructure\\Data\\ContractDbContext.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Infrastructure\\Data\\ContractDbContext.cs",
+              "RelativeToolTip": "ContractService.Infrastructure\\Data\\ContractDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:11:43.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\TaskManager\\docker-compose.yml",
+              "RelativeDocumentMoniker": "..\\..\\..\\TaskManager\\docker-compose.yml",
+              "ToolTip": "C:\\TaskManager\\docker-compose.yml",
+              "RelativeToolTip": "..\\..\\..\\TaskManager\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-17T10:38:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\TaskManager\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\TaskManager\\README.md",
+              "ToolTip": "C:\\TaskManager\\README.md",
+              "RelativeToolTip": "..\\..\\..\\TaskManager\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-17T10:07:17.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContractDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\DTOs\\ContractDto.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\DTOs\\ContractDto.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\DTOs\\ContractDto.cs",
+              "RelativeToolTip": "ContractService.Application\\DTOs\\ContractDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:53:58.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.API\\Program.cs",
+              "RelativeDocumentMoniker": "ContractService.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.API\\Program.cs",
+              "RelativeToolTip": "ContractService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:52:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\TaskManager\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\..\\..\\TaskManager\\Dockerfile",
+              "ToolTip": "C:\\TaskManager\\Dockerfile",
+              "RelativeToolTip": "..\\..\\..\\TaskManager\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T10:38:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateContractRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\DTOs\\CreateContractRequest.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\DTOs\\CreateContractRequest.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\DTOs\\CreateContractRequest.cs",
+              "RelativeToolTip": "ContractService.Application\\DTOs\\CreateContractRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:53:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Tests\\ContractServiceTests.cs",
+              "RelativeDocumentMoniker": "ContractService.Tests\\ContractServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Tests\\ContractServiceTests.cs",
+              "RelativeToolTip": "ContractService.Tests\\ContractServiceTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:06:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContractService.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Interfaces\\IContractService.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\Interfaces\\IContractService.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Interfaces\\IContractService.cs",
+              "RelativeToolTip": "ContractService.Application\\Interfaces\\IContractService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:53:55.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ContractService.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:53:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateContractRequestValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Validators\\CreateContractRequestValidator.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\Validators\\CreateContractRequestValidator.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Validators\\CreateContractRequestValidator.cs",
+              "RelativeToolTip": "ContractService.Application\\Validators\\CreateContractRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:07:19.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "ContractService.Application\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ContractService\\ContractService.Application\\Services\\ContractService.cs",
+              "RelativeToolTip": "ContractService.Application\\Services\\ContractService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:05:45.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Projetos\BMG\ProposalService\ProposalService.Application\bin\Debug\net9.0\ProposalService.Application.deps.json
+C:\Projetos\BMG\ProposalService\ProposalService.Application\bin\Debug\net9.0\ProposalService.Application.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Application\bin\Debug\net9.0\ProposalService.Application.pdb
+C:\Projetos\BMG\ProposalService\ProposalService.Application\bin\Debug\net9.0\ProposalService.Domain.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Application\bin\Debug\net9.0\ProposalService.Domain.pdb
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.csproj.AssemblyReference.cache
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.AssemblyInfoInputs.cache
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.AssemblyInfo.cs
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\Proposal.AC0E986A.Up2Date
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\refint\ProposalService.Application.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ProposalService.Application.pdb
+C:\Projetos\BMG\ProposalService\ProposalService.Application\obj\Debug\net9.0\ref\ProposalService.Application.dll

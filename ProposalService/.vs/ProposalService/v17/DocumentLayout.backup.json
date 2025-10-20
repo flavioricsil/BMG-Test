@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\BMG\\ProposalService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.api\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|solutionrelative:proposalservice.api\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|solutionrelative:proposalservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.application\\dtos\\createproposalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|solutionrelative:proposalservice.application\\dtos\\createproposalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3C23E-4431-4E3D-B163-52AA1E60ACF9}|ProposalService.Domain\\ProposalService.Domain.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.domain\\enums\\proposalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3C23E-4431-4E3D-B163-52AA1E60ACF9}|ProposalService.Domain\\ProposalService.Domain.csproj|solutionrelative:proposalservice.domain\\enums\\proposalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.application\\interfaces\\iproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|solutionrelative:proposalservice.application\\interfaces\\iproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8934FB-0309-46A8-9BEF-984F916864AD}|ProposalService.API\\ProposalService.API.csproj|solutionrelative:proposalservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|c:\\projetos\\bmg\\proposalservice\\proposalservice.application\\validators\\createproposalrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B4AB73-81C4-4EBD-B36C-85AC51F85F1A}|ProposalService.Application\\ProposalService.Application.csproj|solutionrelative:proposalservice.application\\validators\\createproposalrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProposalService.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\appsettings.json",
+              "RelativeToolTip": "ProposalService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T09:50:52.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProposalService.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\Interfaces\\IProposalService.cs",
+              "RelativeDocumentMoniker": "ProposalService.Application\\Interfaces\\IProposalService.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\Interfaces\\IProposalService.cs",
+              "RelativeToolTip": "ProposalService.Application\\Interfaces\\IProposalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:49:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProposalController.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\Controllers\\ProposalController.cs",
+              "RelativeDocumentMoniker": "ProposalService.API\\Controllers\\ProposalController.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\Controllers\\ProposalController.cs",
+              "RelativeToolTip": "ProposalService.API\\Controllers\\ProposalController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:30:18.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProposalService.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.API\\Program.cs",
+              "RelativeToolTip": "ProposalService.API\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwGYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:30:59.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProposalStatus.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Domain\\Enums\\ProposalStatus.cs",
+              "RelativeDocumentMoniker": "ProposalService.Domain\\Enums\\ProposalStatus.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Domain\\Enums\\ProposalStatus.cs",
+              "RelativeToolTip": "ProposalService.Domain\\Enums\\ProposalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:39:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProposalRequestDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\DTOs\\CreateProposalRequestDto.cs",
+              "RelativeDocumentMoniker": "ProposalService.Application\\DTOs\\CreateProposalRequestDto.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\DTOs\\CreateProposalRequestDto.cs",
+              "RelativeToolTip": "ProposalService.Application\\DTOs\\CreateProposalRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:48:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProposalRequestValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\Validators\\CreateProposalRequestValidator.cs",
+              "RelativeDocumentMoniker": "ProposalService.Application\\Validators\\CreateProposalRequestValidator.cs",
+              "ToolTip": "C:\\Projetos\\BMG\\ProposalService\\ProposalService.Application\\Validators\\CreateProposalRequestValidator.cs",
+              "RelativeToolTip": "ProposalService.Application\\Validators\\CreateProposalRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:49:28.206Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

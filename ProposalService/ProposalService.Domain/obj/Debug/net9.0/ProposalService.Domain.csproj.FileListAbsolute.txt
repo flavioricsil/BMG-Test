@@ -1,0 +1,11 @@
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\bin\Debug\net9.0\ProposalService.Domain.deps.json
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\bin\Debug\net9.0\ProposalService.Domain.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\bin\Debug\net9.0\ProposalService.Domain.pdb
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.AssemblyInfoInputs.cache
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.AssemblyInfo.cs
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\refint\ProposalService.Domain.dll
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ProposalService.Domain.pdb
+C:\Projetos\BMG\ProposalService\ProposalService.Domain\obj\Debug\net9.0\ref\ProposalService.Domain.dll

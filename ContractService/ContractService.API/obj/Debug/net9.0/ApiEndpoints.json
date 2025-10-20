@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ContractService.API.Controllers.ContractController",
+    "Method": "CreateContract",
+    "RelativePath": "api/contracts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContractService.Application.DTOs.CreateContractRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
