@@ -43,8 +43,6 @@ Um sistema baseado em microsserviços para gerenciar propostas e contratos de se
   - Repository e Unit of Work
   - Mediator (via MediatR) para comandos e consultas desacoplados
 
-![Diagrama da Arquitetura](architecture.png)
-
 ---
 
 ## Funcionalidade
@@ -83,13 +81,14 @@ Passos:
 1. Clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/api-seguros.git
+git clone https://github.com/flavioricsil/BMG-Test.git
 cd api-seguros
 ```
 
 2. Executar com Docker Compose:
 
 ```bash
+docker network create microservices-net
 docker-compose up --build -d
 ```
 
@@ -125,6 +124,9 @@ docker-compose up --build -d
 - Execução local:
 
 ```bash
+cd .\ProposalService\
+dotnet test
+cd .\ContractService\
 dotnet test
 ```
 
